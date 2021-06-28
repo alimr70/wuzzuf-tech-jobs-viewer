@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Wuzzuf tech jobs viewer api server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "author": "Ali Maher",
+  "license": "ISC",
+  "dependencies": {}
+}
